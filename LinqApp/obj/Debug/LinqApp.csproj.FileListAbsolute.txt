@@ -1,0 +1,7 @@
+C:\Users\yan.esteves\source\repos\LinqApp\bin\Debug\LinqApp.exe.config
+C:\Users\yan.esteves\source\repos\LinqApp\bin\Debug\LinqApp.exe
+C:\Users\yan.esteves\source\repos\LinqApp\bin\Debug\LinqApp.pdb
+C:\Users\yan.esteves\source\repos\LinqApp\obj\Debug\LinqApp.csproj.AssemblyReference.cache
+C:\Users\yan.esteves\source\repos\LinqApp\obj\Debug\LinqApp.csproj.CoreCompileInputs.cache
+C:\Users\yan.esteves\source\repos\LinqApp\obj\Debug\LinqApp.exe
+C:\Users\yan.esteves\source\repos\LinqApp\obj\Debug\LinqApp.pdb
