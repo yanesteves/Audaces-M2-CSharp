@@ -30,6 +30,10 @@ namespace BancoCentral.Dapper
 
         static void addChave(Conta conta, string novaChave, TiposChave tipoChave)
         {
+
+            conta.Chaves.Add(new Pix(novaChave, tipoChave));
+            var c = Data.contas.FindIndex(i => i.Nome == conta.Nome);
+            Data.contas[c] = conta;
         }
 
         internal Conta transferirPix(Conta conta, string[] dadosTransferencia)
@@ -56,8 +60,17 @@ namespace BancoCentral.Dapper
             return Data.contas[myIndex];
         }
 
-        static void removerChave(Conta conta, string chaveRemover)
+        static Conta removerChave(Conta conta, string chaveRemover)
         {
+            var myIndex = Data.contas.FindIndex(c => c.NumConta == conta.NumConta);
+
+            var chaveIndex = conta.Chaves.FindIndex(t => t.Chave == chaveRemover);
+            conta.Chaves.RemoveAt(chaveIndex);
+
+            Data.contas[myIndex].Chaves = conta.Chaves;
+
+            Console.WriteLine("Chave pix removida.");
+            return Data.contas[myIndex];
         }
 
         private void notificacao(string remet, string dest, double valor)

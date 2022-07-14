@@ -62,15 +62,28 @@ namespace ConsoleApp1
 
     #endregion
 
+
+    class Tanque
+    {
+        double t_radius;
+        double t_height;
+        public Tank(double r, double h)
+        {
+            Radius = r;
+            Height = h;
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
             // Exemplo composição
+            /*
             var quarto1 = new Quarto();
             var cozinha1 = new Cozinha();
             Casa casa1 = new Casa(quarto1, cozinha1);
             casa1.quarto.Descricao();
+             */
 
             // Exemplo herança
             Carro vw = new Carro();

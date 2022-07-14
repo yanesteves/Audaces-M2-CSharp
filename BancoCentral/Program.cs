@@ -2,7 +2,6 @@
 using BancoCentral.Entities;
 using BancoCentral.UI;
 using System;
-using System.Collections.Generic;
 using static System.Console;
 namespace BancoCentral
 {
@@ -25,8 +24,7 @@ namespace BancoCentral
             if (conta != null)
             {
                 while (true)
-                {
-                    
+                {                    
                     Menu.menuPrincipal();
                     var op = ReadKey();
                     Clear();
