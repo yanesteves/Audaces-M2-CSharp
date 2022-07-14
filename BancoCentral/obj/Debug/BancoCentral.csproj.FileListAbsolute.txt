@@ -1,0 +1,14 @@
+C:\Users\yan.esteves\source\repos\BancoCentral\obj\Debug\BancoCentral.csproj.AssemblyReference.cache
+C:\Users\yan.esteves\source\repos\BancoCentral\obj\Debug\BancoCentral.csproj.CoreCompileInputs.cache
+C:\Users\yan.esteves\source\repos\BancoCentral\bin\Debug\BancoCentral.exe.config
+C:\Users\yan.esteves\source\repos\BancoCentral\bin\Debug\BancoCentral.exe
+C:\Users\yan.esteves\source\repos\BancoCentral\bin\Debug\BancoCentral.pdb
+C:\Users\yan.esteves\source\repos\BancoCentral\obj\Debug\BancoCentral.exe
+C:\Users\yan.esteves\source\repos\BancoCentral\obj\Debug\BancoCentral.pdb
+C:\Users\yan.esteves\Documents\SENAI\Audaces\Modulo2\repo\Audaces-M2-CSharp\BancoCentral\obj\Debug\BancoCentral.csproj.AssemblyReference.cache
+C:\Users\yan.esteves\Documents\SENAI\Audaces\Modulo2\repo\Audaces-M2-CSharp\BancoCentral\obj\Debug\BancoCentral.csproj.CoreCompileInputs.cache
+C:\Users\yan.esteves\Documents\SENAI\Audaces\Modulo2\repo\Audaces-M2-CSharp\BancoCentral\obj\Debug\BancoCentral.exe
+C:\Users\yan.esteves\Documents\SENAI\Audaces\Modulo2\repo\Audaces-M2-CSharp\BancoCentral\obj\Debug\BancoCentral.pdb
+C:\Users\yan.esteves\Documents\SENAI\Audaces\Modulo2\repo\Audaces-M2-CSharp\BancoCentral\bin\Debug\BancoCentral.exe.config
+C:\Users\yan.esteves\Documents\SENAI\Audaces\Modulo2\repo\Audaces-M2-CSharp\BancoCentral\bin\Debug\BancoCentral.exe
+C:\Users\yan.esteves\Documents\SENAI\Audaces\Modulo2\repo\Audaces-M2-CSharp\BancoCentral\bin\Debug\BancoCentral.pdb
